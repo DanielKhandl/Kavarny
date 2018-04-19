@@ -1,9 +1,11 @@
 # Kavarny
 
 # Clenovia: 
+
 Maria Lebeděva, Jindra Kadoun, Daniel Khandl
 
 # Zadani : 
+
 1) Vytvoreni/upraveni/mazani nove kavaren
 2) Zobrazeni profilu kaviaren
 3) Zobrazenie seznamu kavaren
